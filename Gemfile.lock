@@ -309,6 +309,7 @@ DEPENDENCIES
   jekyll-toc
   jekyll-twitter-plugin
   jemoji
+  logger
   observer
   ostruct
 
