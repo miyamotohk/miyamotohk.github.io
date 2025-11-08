@@ -44,12 +44,6 @@ My research interests lie in information theory (MSC2020 <a target="_blank" href
 I received the M.Sc. degree in applied mathematics from <a target="_blank" href="https://www.unicamp.br/">Unicamp</a>, Brazil, the <em>Diplôme d'Ingénieur</em> (major: applied mathematics) from <a target="_blank" href="https://www.centralesupelec.fr/">CentraleSupélec</a>, France, and the B.Sc. degree in electrical engineering from <a target="_blank" href="https://www.unicamp.br/">Unicamp</a>, Brazil.
 </p>
 
-
-* **Ph.D.** in information theory (ongoing) - Univeristé Paris-Saclay, France
-* **M.Sc.** in applied mathematics - Unicamp, Brazil
-* **Dipl.-Ing.** in applied mathematics - CentraleSupélec, France
-* **B.Sc.** in electrical engineering - Unicamp, Brazil
-
 **Curriculum vitae:** click [here](/Henrique-Miyamoto-CV.pdf){:target="_blank"}.
 
 
