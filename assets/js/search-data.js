@@ -98,6 +98,21 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-context-tree-based-csi-compression",
+          title: 'Context-tree-based CSI compression',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/csi-compression/";
+            },},{id: "projects-fisher-rao-distance-and-applications",
+          title: 'Fisher-Rao distance and applications',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/information-geometry/";
+            },},{id: "projects-spherical-codes-by-hopf-foliations",
+          title: 'Spherical codes by Hopf foliations',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/spherical-codes/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
