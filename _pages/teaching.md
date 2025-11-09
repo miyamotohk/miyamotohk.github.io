@@ -1,14 +1,31 @@
-<!--
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: 
 nav: true
-nav_order: 6
+nav_order: 1
 ---
--->
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## CentraleSupélec
 
-Organize your courses by years, topics, or universities, however you like!
+##### Teaching assistant
+
+* Information theory (2023/24, 2024/25)<br>
+* Signal processing (2022/23, 2023/24, 2024/25)<br>
+* Communication theory (2022/23, 2023/24, 2024/25)<br>
+* Digital signal processing (2023/24, 2024/25)<br>
+* Wireless communications (2022/23, 2023/24, 2024/25)<br>
+
+## Unicamp
+
+##### Undergraduate/Graduate teaching assistant
+
+* [EE881—Princípios de comunicações I](./ee881) (1S/2022)
+* [EE881—Princípios de comunicações I](./ee881) (1S/2021)
+
+---
+
+_"Axiom 2. Everyone can have joyful, meaningful, and empowering mathematical experiences."_
+<div style="text-align: right"> — Federico Ardila-Mantilla in <a target="_blank" href="https://www.ams.org/publications/journals/notices/201610/rnoti-p1164.pdf">Todos Cuentan: Cultivating Diversity
+in Combinatorics</a></div>

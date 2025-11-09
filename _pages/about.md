@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Doctoral researcher | Information theory
+subtitle: Ph.D. student | Information theory
 
 profile:
   align: right
@@ -24,25 +24,20 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<!--
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
--->
 
 <p align="justify">
-I am a Brazilian doctoral researcher working at the <a target="_blank" href="https://l2s.centralesupelec.fr/">Laboratory of Signals and Systems</a> (L2S), which is jointly operated by <a target="_blank" href="https://www.cnrs.fr/fr">CNRS</a>, <a target="_blank" href="https://www.centralesupelec.fr/">CentraleSupélec</a> and <a target="_blank" href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay</a> at Gif-sur-Yvette, France.
+I am a Brazilian Ph.D. student working at the <a target="_blank" href="https://l2s.centralesupelec.fr/">Laboratory of Signals and Systems (L2S)</a>, which is jointly operated by <a target="_blank" href="https://www.cnrs.fr/fr">CNRS</a>, <a target="_blank" href="https://www.centralesupelec.fr/">CentraleSupélec</a> and <a target="_blank" href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay</a> in Gif-sur-Yvette, France.
+My advisor is <a target="_blank" href="https://l2s.centralesupelec.fr/u/yang-sheng/">Prof. Sheng Yang</a>.
 </p>
 
 <p align="justify">
-My research interests lie in information theory (MSC2020 <a target="_blank" href="https://mathscinet.ams.org/mathscinet/msc/msc2020.html?t=94Axx">94A</a> and <a target="_blank" href="https://mathscinet.ams.org/mathscinet/msc/msc2020.html?t=94Bxx">94B</a>, particularly 94A15, 94A24, 94B35, 94B70). My advisor is <a target="_blank" href="https://l2s.centralesupelec.fr/u/yang-sheng/">Prof. Sheng Yang</a>.
+My research interests lie around information theory (MSC2020 <a target="_blank" href="https://mathscinet.ams.org/mathscinet/msc/msc2020.html?t=94Axx">94A</a> and <a target="_blank" href="https://mathscinet.ams.org/mathscinet/msc/msc2020.html?t=94Bxx">94B</a>, particularly 94A15, 94A24, 94B35, 94B70). 
 </p>
 
 <p align="justify">
 I received the M.Sc. degree in applied mathematics from <a target="_blank" href="https://www.unicamp.br/">Unicamp</a>, Brazil, the <em>Diplôme d'Ingénieur</em> (major: applied mathematics) from <a target="_blank" href="https://www.centralesupelec.fr/">CentraleSupélec</a>, France, and the B.Sc. degree in electrical engineering from <a target="_blank" href="https://www.unicamp.br/">Unicamp</a>, Brazil.
 </p>
+
 
 **Curriculum vitae:** click [here](/Henrique-Miyamoto-CV.pdf){:target="_blank"}.
 
