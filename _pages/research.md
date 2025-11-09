@@ -26,13 +26,12 @@ nav_order: 1
 
 #### Conference papers
 
-**[C9]** H. K. Miyamoto and S. Yang, "On universal decoding over discrete additive channels by noise guessing", accepted to _IEEE Information Theory Workshop (ITW)_, Sydney, 2025. [[HAL](https://hal.science/hal-05180830v1){:target="_blank"}]
+**[C9]** H. K. Miyamoto and S. Yang, "On universal decoding over discrete additive channels by noise guessing", _IEEE Information Theory Workshop (ITW)_, Sydney, 2025, to appear. [[HAL](https://hal.science/hal-05180830v1){:target="_blank"}]
 
 **[C8]** H. K. Miyamoto and S. Yang, "On universal decoding over memoryless channels with the Krichevsky–Trofimov estimator", _IEEE International Symposium on Information Theory (ISIT)_, Athens, 2024, pp. 1498-1503, doi: 10.1109/ISIT57864.2024.10619414. [[Link](https://ieeexplore.ieee.org/document/10619414){:target="_blank"}]
 
-**[C7]** H. K. Miyamoto, "Geometria, Estatística e Aplicações a Comunicações e Aprendizado", _Proceeding Series of the Brazilian Society of Computationa and Applied Mathematics_, vol. 10, no. 1, 2023 (in Portuguese), doi: 10.5540/03.2023.010.01.0004. [[Link](https://proceedings.sbmac.org.br/sbmac/article/view/4111/){:target="_blank"}]
-
-_This is an extended abstract of **[[T1]](#theses)**, published for the [Clóvis Caesar Gonzaga Award](https://www.sbmac.org.br/premio-pos-graduacao/){:target="_blank"} (SBMAC 2023)._
+**[C7]** H. K. Miyamoto, "Geometria, Estatística e Aplicações a Comunicações e Aprendizado", _Proceeding Series of the Brazilian Society of Computational and Applied Mathematics_, vol. 10, no. 1, 2023 (in Portuguese), doi: 10.5540/03.2023.010.01.0004. [[Link](https://proceedings.sbmac.org.br/sbmac/article/view/4111/){:target="_blank"}]
+_*This is an extended abstract of **[[T1]](#theses)**, published for the [Clóvis Caesar Gonzaga Award](https://www.sbmac.org.br/premio-pos-graduacao/){:target="_blank"} (SBMAC 2023)._
 
 **[C6]** F. C. C. Meneghetti, H. K. Miyamoto, S. I. R. Costa and M. H. M. Costa, "Revisiting lattice tiling decomposition and dithered quantisation", _Geometric Science of Information (GSI)_, Saint-Malo, 2023. In: F. Nielsen and F. Barbaresco (eds.), _GSI 2023_, LNCS 14071, pp. 318-327, Springer, 2023, doi: 10.1007/978-3-031-38271-0_319. [[Link](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_31){:target="_blank"}]
 
@@ -82,7 +81,7 @@ _This is an extended abstract of **[[T1]](#theses)**, published for the [Clóvis
 
 **[T1]** H. K. Miyamoto, "Geometria, Estatística e Aplicações a Comunicações e Aprendizado", Master's dissertation in applied mathematics, Universidade Estadual de Campinas, 2022 (in Portuguese). [[Link](http://repositorio.unicamp.br/acervo/detalhe/1256426){:target="_blank"}] [[PDF](./../files/Dissertação_HenriqueMiyamoto.pdf){:target="_blank"}] [[Errata](./../files/errata.pdf){:target="_blank"}]
 
-_Received the [Clóvis Caesar Gonzaga Award](https://www.sbmac.org.br/premio-pos-graduacao/){:target="_blank"} for best master's dissertation in applied and computational mathematics (SBMAC 2023)._
+ _Received the [Clóvis Caesar Gonzaga Award](https://www.sbmac.org.br/premio-pos-graduacao/){:target="_blank"} for best master's dissertation in applied and computational mathematics (SBMAC 2023)._
 
 <!--
 <center>

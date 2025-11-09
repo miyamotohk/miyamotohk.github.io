@@ -62,3 +62,5 @@ CentraleSupélec | Université Paris-Saclay<br>
 <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=57211255039"><img style="padding-left: 5px; padding-right: 5px" src="assets/img/logos/scopus.png" height="33" title="Scopus">
 <a target="_blank" href="https://www.itsoc.org/profile/9520"><img style=" padding-left: 5px; padding-right: 5px" src="assets/img/logos/itsoc.png" height="33" title="ITSoc">
 <a target="_blank" href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1475271"><img style="padding-left: 5px; padding-right: 5px" src="assets/img/logos/math.png" height="33" title="MathSciNet">
+
+  <br>
