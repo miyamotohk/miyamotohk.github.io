@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Etc.
-permalink: /etc
+permalink: /etc/
 nav: true
 nav_order: 3
 ---
