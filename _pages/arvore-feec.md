@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /arvore-feec
-title: Árvore genealógica acadêmica FEEC
+title: Árvore genealógica acadêmica da FEEC
 description:
 ---
 

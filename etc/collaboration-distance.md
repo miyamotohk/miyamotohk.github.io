@@ -26,4 +26,4 @@ My [MR collaboration distance](https://mathscinet.ams.org/mathscinet/collaborati
 
 4. **C. E. Shannon**, **R. G. Gallager**, **E. R. Berlekamp**. Lower bounds to error probability for coding on discrete memoryless channels. I. *Information and Control* 10 (1967), 65–103. [MR0210513](https://mathscinet.ams.org/mathscinet/article?mr=210513){:target="_blank"}
 
-[Back](./..)
+[Back](./../etc)
