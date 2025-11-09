@@ -28,7 +28,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/etc";
+            window.location.href = "/etc/";
           },
         },{id: "dropdown-árvore-feec",
               title: "Árvore FEEC",
