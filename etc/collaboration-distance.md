@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Collaboration distance
+permalink: /etc/collaboration-distance
 ---
 
 My [MR collaboration distance](https://mathscinet.ams.org/mathscinet/collaborationDistance.html){:target="_blank"} to Claude Shannon is 4, via either of the following paths.
