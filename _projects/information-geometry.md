@@ -1,3 +1,4 @@
+<!--
 ---
 layout: page
 title: Fisher-Rao distance and applications
@@ -7,6 +8,7 @@ importance: 1
 category: research
 related_publications: true
 ---
+-->
 
 <p align="justify">
 Information geometry studies the intrinsic geometry of probability distribution families by regarding them as statistical manifolds.

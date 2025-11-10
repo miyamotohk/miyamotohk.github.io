@@ -1,3 +1,4 @@
+<!--
 ---
 layout: page
 title: Spherical codes by Hopf foliations
@@ -7,6 +8,7 @@ importance: 1
 category: research
 related_publications: true
 ---
+-->
 
 <img style="float: right; padding-left: 20px;" src="./../figures/tree.jpg" height="250"/>
 

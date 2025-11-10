@@ -1,3 +1,4 @@
+<!--
 ---
 layout: page
 title: Context-tree-based CSI compression
@@ -7,6 +8,7 @@ importance: 1
 category: research
 related_publications: true
 ---
+-->
 
 <img style="float: right; padding-left: 20px;" src="./../figures/tree.jpg" height="250"/>
 
