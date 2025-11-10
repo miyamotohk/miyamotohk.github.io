@@ -30,7 +30,7 @@ Comentários, correções ou sugestões, entre em contato (informações de cont
 * [BDTD/Ibict](https://bdtd.ibict.br){:target="_blank"}
 * [Repositório da Produção Científica e Intelectual da Unicamp](http://repositorio.unicamp.br/){:target="_blank"}
 * [FEEC: Docentes](https://www.fee.unicamp.br/institucional/docentes/){:target="_blank"}
-* [DAC: Catálogos de cursos de pós-graduação](https://www.dac.unicamp.br/portal/pos-graduacao/catalogos-de-cursos){:target="_blank"} (2003-2026)
+* [DAC: Catálogos de cursos de pós-graduação](https://www.dac.unicamp.br/portal/pos-graduacao/catalogos-de-cursos){:target="_blank"}
 * [Unicamp: Portal do docente e pesquisador](https://portal.dados.unicamp.br/index){:target="_blank"}
 
 
