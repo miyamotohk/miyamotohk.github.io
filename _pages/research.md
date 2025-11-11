@@ -31,7 +31,7 @@ nav_order: 1
 **[C8]** H. K. Miyamoto and S. Yang, "On universal decoding over memoryless channels with the Krichevsky–Trofimov estimator", _IEEE International Symposium on Information Theory (ISIT)_, Athens, 2024, pp. 1498-1503, doi: 10.1109/ISIT57864.2024.10619414. [[Link](https://ieeexplore.ieee.org/document/10619414){:target="_blank"}]
 
 **[C7]** H. K. Miyamoto, "Geometria, Estatística e Aplicações a Comunicações e Aprendizado", _Proceeding Series of the Brazilian Society of Computational and Applied Mathematics_, vol. 10, no. 1, 2023 (in Portuguese), doi: 10.5540/03.2023.010.01.0004. [[Link](https://proceedings.sbmac.org.br/sbmac/article/view/4111/){:target="_blank"}]
-_*This is an extended abstract of **[[T1]](#theses)**, published for the [Clóvis Caesar Gonzaga Award](https://www.sbmac.org.br/premio-pos-graduacao/){:target="_blank"} (SBMAC 2023)._
+_*Extended abstract of **[[T1]](#theses)**, published on the occasion of the [Clóvis Caesar Gonzaga Award](https://www.sbmac.org.br/premio-pos-graduacao/){:target="_blank"} (SBMAC 2023)._
 
 **[C6]** F. C. C. Meneghetti, H. K. Miyamoto, S. I. R. Costa and M. H. M. Costa, "Revisiting lattice tiling decomposition and dithered quantisation", _Geometric Science of Information (GSI)_, Saint-Malo, 2023. In: F. Nielsen and F. Barbaresco (eds.), _GSI 2023_, LNCS 14071, pp. 318-327, Springer, 2023, doi: 10.1007/978-3-031-38271-0_319. [[Link](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_31){:target="_blank"}]
 
@@ -47,21 +47,21 @@ _*This is an extended abstract of **[[T1]](#theses)**, published for the [Clóvi
 
 #### Presentations (without proceedings)
 
-**[A9]** "On universal decoding over memoryless channels with the Krichevsky–Trofimov estimator" (poster presentation), _IEEE European School on Information Theory (ESIT)_, Eindhoven, Netherlands, 2024.
+**[A7]** "On universal decoding over memoryless channels with the Krichevsky–Trofimov estimator" (poster presentation), _IEEE European School on Information Theory (ESIT)_, Eindhoven, The Netherlands, 2024.
 
-**[A8]** "On universal decoding over memoryless channels with the Krichevsky–Trofimov estimator" (poster presentation), _France PhD Workshop on Information Theory_, Palaiseau, France, 2024.
+**[A6]** "On universal decoding over memoryless channels with the Krichevsky–Trofimov estimator" (poster presentation), _France PhD Workshop on Information Theory_, Palaiseau, France, 2024.
 
-**[A7]** "Universal decodig with context trees" (poster presentation), _IEEE European School on Information Theory (ESIT)_, Bristol, UK, 2023.
+**[A5]** "Universal decodig with context trees" (poster presentation), _IEEE European School on Information Theory (ESIT)_, Bristol, UK, 2023.
 
 <!--
 **[A6]** "Universal decodig with context trees" (poster presentation), _Journée des Doctorants en STIC du Plateau de Saclay_, Palaiseau, France, 2023.
 -->
 
-**[A5]** "The Fisher-Rao loss for learning under label noise" (oral presentation), _International Conference on Information Geometry for Data Science (IG4DS)_, Hamburg, Germany (virtual), 2022.
+**[A4]** "The Fisher-Rao loss for learning under label noise" (oral presentation), _International Conference on Information Geometry for Data Science (IG4DS)_, Hamburg, Germany (virtual), 2022.
 
-**[A4]** "Construction of spherical codes using the Hopf fibration" (short communication), _**International Congress of Mathematicians (ICM)**_, Rio de Janeiro, Brazil, 2018. [[Link](https://eta.impa.br/dl/ICM-2018-BoA-ver1-eb.pdf#page=151){:target="_blank"}]
+**[A3]** "Construction of spherical codes using the Hopf fibration" (short communication), _**International Congress of Mathematicians (ICM)**_, Rio de Janeiro, Brazil, 2018. [[Link](https://eta.impa.br/dl/ICM-2018-BoA-ver1-eb.pdf#page=151){:target="_blank"}]
 
-**[A3]** "A recursive algorithmic construction for spherical codes in dimensions $$\mathbb{R}^{2^k}$$" (poster presentation), _Latin American Week on Coding and Information (LAWCI)_, Campinas, Brazil, 2018.
+**[A2]** "A recursive algorithmic construction for spherical codes in dimensions $$\mathbb{R}^{2^k}$$" (poster presentation), _Latin American Week on Coding and Information (LAWCI)_, Campinas, Brazil, 2018.
 
 <!--
 **[A2]** "Construção de códigos esféricos usando a fibração de Hopf" (oral presentation), _Seminários DivulgaMat_, IMECC/Unicamp, Campinas, Brazil, 2018. [[Link](https://www.ime.unicamp.br/eventos/construcao-codigos-esfericos-usando-fibracao-hopf){:target="_blank"}]
@@ -69,19 +69,16 @@ _*This is an extended abstract of **[[T1]](#theses)**, published for the [Clóvi
 
 **[A1]** "Construção de códigos esféricos usando a fibração de Hopf" (oral presentation), _Jornada de Matemática, Matemática Aplicada e Educação Matemática (J3M)_, Curitiba, Brazil, 2017.
 
-<!--
-* Construção de códigos esféricos usando a fibração de Hopf. _Mostra Científica IEEE Day_, FEEC/Unicamp, Campinas, 2017. [[Link](https://www.facebook.com/ramoieeeunicamp/photos/gm.2000235853567525/1867919649888823/?type=3&theater){:target="_blank"}]
--->
 
 #### Patent applications
 
-**[P1]** I. Land, H. K. Miyamoto, A. Destounis and J. C. Belfiore, "Transfer Learning between Neural Networks", patent applications WO202207097, CN117121020, EP2021716362, 2021. [[WIPO](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022207097){:target="_blank"}] [[EPO](https://register.epo.org/application?number=EP21716362){:target="_blank"}] [[Google Patents](https://patents.google.com/patent/CN117121020A/en){:target="_blank"}]
+**[P1]** I. Land, H. K. Miyamoto, A. Destounis and J. C. Belfiore, "Transfer Learning between Neural Networks", patent applications WO202207097, CN117121020, EP2021716362, 2021. [[WIPO](https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022207097){:target="_blank"}] [[EPO](https://register.epo.org/application?number=EP21716362){:target="_blank"}]
 
 #### Theses
 
-**[T1]** H. K. Miyamoto, "Geometria, Estatística e Aplicações a Comunicações e Aprendizado", Master's dissertation in applied mathematics, Universidade Estadual de Campinas, 2022 (in Portuguese). [[Link](http://repositorio.unicamp.br/acervo/detalhe/1256426){:target="_blank"}] [[PDF](./../files/Dissertação_HenriqueMiyamoto.pdf){:target="_blank"}] [[Errata](./../files/errata.pdf){:target="_blank"}]
+**[T1]** H. K. Miyamoto, "Geometria, Estatística e Aplicações a Comunicações e Aprendizado", *M.Sc. dissertation in applied mathematics*, Universidade Estadual de Campinas, 2022, doi: 20.500.12733/6633. [[Link](http://repositorio.unicamp.br/acervo/detalhe/1256426){:target="_blank"}] [[PDF](./../files/Dissertação_HenriqueMiyamoto.pdf){:target="_blank"}] [[Errata](./../files/errata.pdf){:target="_blank"}]
 
- _Received the [Clóvis Caesar Gonzaga Award](https://www.sbmac.org.br/premio-pos-graduacao/){:target="_blank"} for best master's dissertation in applied and computational mathematics (SBMAC 2023)._
+ _*Received the [Clóvis Caesar Gonzaga Award](https://www.sbmac.org.br/premio-pos-graduacao/){:target="_blank"} for best master's dissertation in applied and computational mathematics (SBMAC 2023)._
 
 <!--
 <center>
