@@ -161,7 +161,7 @@ This is a list of people with whom I have collaborated:
 * Ingmar Land (Nokia, France)
 * Jean-Claude Belfiore (Huawei, France)
 * [Julianna Pinele](https://ufrb.edu.br/cetec/julianna-pinele-santos-porto){:target="_blank"} (UFRB, Brazil)
-* [Max H. M. Costa](http://www.decom.fee.unicamp.br/~max){:target="_blank"} (Unicamp, Brazil)
+* [Max H. M. Costa](https://max.fee.unicamp.br/){:target="_blank"} (Unicamp, Brazil)
 * [Sheng Yang](https://l2s.centralesupelec.fr/u/yang-sheng/){:target="_blank"} (CentraleSupélec, France)
 * Sueli I. R. Costa (Unicamp, Brazil)
 
