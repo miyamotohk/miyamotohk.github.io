@@ -77,7 +77,6 @@ _*Extended abstract of **[[T1]](#theses)**, published on the occasion of the [Cl
 #### Theses
 
 **[T1]** H. K. Miyamoto, "Geometria, Estatística e Aplicações a Comunicações e Aprendizado", *M.Sc. dissertation in applied mathematics*, Universidade Estadual de Campinas, 2022, doi: 20.500.12733/6633. [[Link](http://repositorio.unicamp.br/acervo/detalhe/1256426){:target="_blank"}] [[PDF](./../files/Dissertação_HenriqueMiyamoto.pdf){:target="_blank"}] [[Errata](./../files/errata.pdf){:target="_blank"}]
-
  _*Received the [Clóvis Caesar Gonzaga Award](https://www.sbmac.org.br/premio-pos-graduacao/){:target="_blank"} for best master's dissertation in applied and computational mathematics (SBMAC 2023)._
 
 <!--
