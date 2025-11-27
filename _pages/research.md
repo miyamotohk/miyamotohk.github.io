@@ -26,7 +26,7 @@ nav_order: 1
 
 #### Conference papers
 
-**[C9]** H. K. Miyamoto and S. Yang, "On universal decoding over discrete additive channels by noise guessing", _IEEE Information Theory Workshop (ITW)_, Sydney, 2025, Sydney, 2025, pp. 1-6, doi: 10.1109/ITW62417.2025.11240417. [[Link](https://ieeexplore.ieee.org/document/11240417){:target="_blank"}]
+**[C9]** H. K. Miyamoto and S. Yang, "On universal decoding over discrete additive channels by noise guessing", _IEEE Information Theory Workshop (ITW)_, Sydney, 2025, pp. 1-6, doi: 10.1109/ITW62417.2025.11240417. [[Link](https://ieeexplore.ieee.org/document/11240417){:target="_blank"}]
 
 **[C8]** H. K. Miyamoto and S. Yang, "On universal decoding over memoryless channels with the Krichevsky–Trofimov estimator", _IEEE International Symposium on Information Theory (ISIT)_, Athens, 2024, pp. 1498-1503, doi: 10.1109/ISIT57864.2024.10619414. [[Link](https://ieeexplore.ieee.org/document/10619414){:target="_blank"}]
 
