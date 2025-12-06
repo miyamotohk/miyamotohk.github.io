@@ -39,6 +39,7 @@ Tem meu chão, tem meu céu, tem meu mar<br>
 
 **Research and society**
 
+* [Google Scholar is doomed](https://hannahshelley.neocities.org/blog/2025_08_13_GoogleScholar){:target="_blank"}. Hannah Shelley, _Hannah's Web log_ (2025).
 * [The push for open access is making science less inclusive](https://www.timeshighereducation.com/opinion/push-open-access-making-science-less-inclusive){:target="_blank"}. Alicia Kowaltowski, Marcus Oliveira, Ariel Silber and Hernan Chaimovich, _Times Higher Education_ (2021).
 * [Corrigir o desastre da Internet](https://brasil.elpais.com/brasil/2018/11/23/tecnologia/1542970848_353132.html){:target="_blank"} (in Portuguese or [Spanish](https://elpais.com/tecnologia/2018/11/23/actualidad/1542970848_353132.html){:target="_blank"}). Delia Rodríguez, _El País_ (2018).
 * [The importance of stupidity in scientific research](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research){:target="_blank"}. 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /arvore-feec
+permalink: /arvore-feec/
 title: Árvore genealógica acadêmica da FEEC
 description:
 ---
