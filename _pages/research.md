@@ -26,24 +26,28 @@ nav_order: 1
 
 #### Conference papers
 
-**[C9]** H. K. Miyamoto and S. Yang, "On universal decoding over discrete additive channels by noise guessing", _IEEE Information Theory Workshop (ITW)_, Sydney, 2025, pp. 1-6, doi: 10.1109/ITW62417.2025.11240417. [[Link](https://ieeexplore.ieee.org/document/11240417){:target="_blank"}]
+**[C6]** H. K. Miyamoto and S. Yang, "On universal decoding over discrete additive channels by noise guessing", _IEEE Information Theory Workshop (ITW)_, Sydney, Australia, 2025, pp. 1-6, doi: 10.1109/ITW62417.2025.11240417. [[Link](https://ieeexplore.ieee.org/document/11240417){:target="_blank"}]
 
-**[C8]** H. K. Miyamoto and S. Yang, "On universal decoding over memoryless channels with the Krichevsky–Trofimov estimator", _IEEE International Symposium on Information Theory (ISIT)_, Athens, 2024, pp. 1498-1503, doi: 10.1109/ISIT57864.2024.10619414. [[Link](https://ieeexplore.ieee.org/document/10619414){:target="_blank"}]
+**[C5]** H. K. Miyamoto and S. Yang, "On universal decoding over memoryless channels with the Krichevsky–Trofimov estimator", _IEEE International Symposium on Information Theory (ISIT)_, Athens, Greece, 2024, pp. 1498-1503, doi: 10.1109/ISIT57864.2024.10619414. [[Link](https://ieeexplore.ieee.org/document/10619414){:target="_blank"}]
 
-**[C7]** H. K. Miyamoto, "Geometria, Estatística e Aplicações a Comunicações e Aprendizado", _Proceeding Series of the Brazilian Society of Computational and Applied Mathematics_, vol. 10, no. 1, 2023 (in Portuguese), doi: 10.5540/03.2023.010.01.0004. [[Link](https://proceedings.sbmac.org.br/sbmac/article/view/4111/){:target="_blank"}]
+**[C4]** F. C. C. Meneghetti, H. K. Miyamoto, S. I. R. Costa and M. H. M. Costa, "Revisiting lattice tiling decomposition and dithered quantisation", _Geometric Science of Information (GSI)_, Saint-Malo, France, 2023. In: F. Nielsen and F. Barbaresco (eds.), _GSI 2023_, LNCS 14071, pp. 318-327, Springer, 2023, doi: 10.1007/978-3-031-38271-0_319. [[Link](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_31){:target="_blank"}]
+
+**[C3]** F. C. C. Meneghetti, H. K. Miyamoto and S. I. R. Costa, "Information properties of a random variable decomposition through lattices", _41st International Conference on Bayesian and Maximum Entropy Methods in Science and Engineering (MaxEnt 2022)_, Paris, France (hybrid), 2022. In: _Physical Sciences Forum_, vol. 5, no. 1, 2022, doi: 10.3390/psf2022005019. [[Link](https://www.mdpi.com/2673-9984/5/1/19){:target="_blank"}]
+
+**[C2]** H. K. Miyamoto and S. Yang, "A CSI compression scheme using context trees", _International Zurich Seminar on Information and Communication (IZS)_, Zurich, Switzerland, 2022, pp. 24-28, doi: 10.3929/ethz-b-000535273. [[Link](https://www.research-collection.ethz.ch/handle/20.500.11850/535273){:target="_blank"}]
+
+**[C1]** H. K. Miyamoto, H. N. Sá Earp and S. I. R. Costa, "Constructive spherical codes in $$2^k$$ dimensions", _IEEE International Symposium on Information Theory (ISIT)_, Paris, France, 2019, pp. 1612-1616, doi: 10.1109/ISIT.2019.8849464. [[Link](https://ieeexplore.ieee.org/document/8849464){:target="_blank"}]
+
+
+
+#### Domestic conference papers
+
+**[D3]** H. K. Miyamoto, "Geometria, Estatística e Aplicações a Comunicações e Aprendizado", _Proceeding Series of the Brazilian Society of Computational and Applied Mathematics_, vol. 10, no. 1, 2023 (in Portuguese), doi: 10.5540/03.2023.010.01.0004. [[Link](https://proceedings.sbmac.org.br/sbmac/article/view/4111/){:target="_blank"}]
 _*Extended abstract of **[[T1]](#theses)**, published on the occasion of the [Clóvis Caesar Gonzaga Award](https://www.sbmac.org.br/premio-pos-graduacao/){:target="_blank"} (SBMAC 2023)._
 
-**[C6]** F. C. C. Meneghetti, H. K. Miyamoto, S. I. R. Costa and M. H. M. Costa, "Revisiting lattice tiling decomposition and dithered quantisation", _Geometric Science of Information (GSI)_, Saint-Malo, 2023. In: F. Nielsen and F. Barbaresco (eds.), _GSI 2023_, LNCS 14071, pp. 318-327, Springer, 2023, doi: 10.1007/978-3-031-38271-0_319. [[Link](https://link.springer.com/chapter/10.1007/978-3-031-38271-0_31){:target="_blank"}]
+**[D2]** H. K. Miyamoto, H. N. Sá Earp and S. I. R. Costa, "Construção de códigos esféricos usando a fibração de Hopf", _Jornada Nacional de Iniciação Científica (JNIC), 70ª Reunião Anual da SBPC_, Maceió, Brazil, 2018 (in Portuguese), ISSN: 2176-1221. [[Link](http://www.sbpcnet.org.br/livro/70ra/trabalhos/resumos/2613_17a01decabe27c04748062c6c423dfb97.pdf){:target="_blank"}]
 
-**[C5]** F. C. C. Meneghetti, H. K. Miyamoto and S. I. R. Costa, "Information properties of a random variable decomposition through lattices", _41st International Conference on Bayesian and Maximum Entropy Methods in Science and Engineering (MaxEnt 2022)_, Paris (hybrid), 2022. In: _Physical Sciences Forum_, vol. 5, no. 1, 2022, doi: 10.3390/psf2022005019. [[Link](https://www.mdpi.com/2673-9984/5/1/19){:target="_blank"}]
-
-**[C4]** H. K. Miyamoto and S. Yang, "A CSI compression scheme using context trees", _International Zurich Seminar on Information and Communication (IZS)_, Zurich, 2022, pp. 24-28, doi: 10.3929/ethz-b-000535273. [[Link](https://www.research-collection.ethz.ch/handle/20.500.11850/535273){:target="_blank"}]
-
-**[C3]** H. K. Miyamoto, H. N. Sá Earp and S. I. R. Costa, "Constructive spherical codes in $$2^k$$ dimensions", _IEEE International Symposium on Information Theory (ISIT)_, Paris, 2019, pp. 1612-1616, doi: 10.1109/ISIT.2019.8849464. [[Link](https://ieeexplore.ieee.org/document/8849464){:target="_blank"}]
-
-**[C2]** H. K. Miyamoto, H. N. Sá Earp and S. I. R. Costa, "Construção de códigos esféricos usando a fibração de Hopf", _Jornada Nacional de Iniciação Científica (JNIC), 70ª Reunião Anual da SBPC_, Maceió, 2018 (in Portuguese), ISSN: 2176-1221. [[Link](http://www.sbpcnet.org.br/livro/70ra/trabalhos/resumos/2613_17a01decabe27c04748062c6c423dfb97.pdf){:target="_blank"}]
-
-**[C1]** H. K. Miyamoto, H. N. Sá Earp and S. I. R. Costa, "Construction of spherical codes using the Hopf fibration", _XXV Congresso de Iniciação Científica da Unicamp_, Campinas, 2017, doi: 10.19146/pibic-2017-78809. [[Link](https://proceedings.science/unicamp-pibic/pibic-2017/papers/construction-of-spherical-codes-using-the-hopf-fibration){:target="_blank"}]
+**[D1]** H. K. Miyamoto, H. N. Sá Earp and S. I. R. Costa, "Construction of spherical codes using the Hopf fibration", _XXV Congresso de Iniciação Científica da Unicamp_, Campinas, Brazil, 2017, doi: 10.19146/pibic-2017-78809. [[Link](https://proceedings.science/unicamp-pibic/pibic-2017/papers/construction-of-spherical-codes-using-the-hopf-fibration){:target="_blank"}]
 
 #### Presentations (without proceedings)
 
