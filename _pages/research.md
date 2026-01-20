@@ -165,6 +165,8 @@ This is a list of people with whom I have collaborated:
 * Jean-Claude Belfiore (Huawei, France)
 * [Julianna Pinele](https://ufrb.edu.br/cetec/julianna-pinele-santos-porto){:target="_blank"} (UFRB, Brazil)
 * [Max H. M. Costa](https://max.fee.unicamp.br/){:target="_blank"} (Unicamp, Brazil)
+* [Raymond Zhang](https://www.raymzhang.com/){:target="_blank"} (CentraleSupélec, France)
+* [Richard Combes](http://rcombes.supelec.free.fr/research.html){:target="_blank"} (CentraleSupélec, France)
 * [Sheng Yang](https://l2s.centralesupelec.fr/u/yang-sheng/){:target="_blank"} (CentraleSupélec, France)
 * Sueli I. R. Costa (Unicamp, Brazil)
 
