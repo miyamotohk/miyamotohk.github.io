@@ -11,8 +11,7 @@ nav_order: 1
 
 #### Preprints
 
-**[Z2]** H. K. Miyamoto and S. Yang, "Error exponents for randomised list decoding" _arXiv_, 2026, doi: 10.48550/arXiv.2601.09519
-. [[arXiv](https://arxiv.org/abs/2601.09519){:target="_blank"}]
+**[Z2]** H. K. Miyamoto and S. Yang, "Error exponents for randomised list decoding" _arXiv_, 2026, doi: 10.48550/arXiv.2601.09519. [[arXiv](https://arxiv.org/abs/2601.09519){:target="_blank"}]
 
 **[Z1]** H. K. Miyamoto and S. Yang, "Universal decoding over finite-state additive channels via noise guessing", _arXiv_, 2025, doi: 10.48550/arXiv.2501.12971. [[arXiv](https://arxiv.org/abs/2501.12971){:target="_blank"}]
 
