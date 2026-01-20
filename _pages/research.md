@@ -11,6 +11,9 @@ nav_order: 1
 
 #### Preprints
 
+**[Z2]** H. K. Miyamoto and S. Yang, "Error exponents for randomised list decoding" _arXiv_, 2026, doi: 10.48550/arXiv.2601.09519
+. [[arXiv](https://arxiv.org/abs/2601.09519){:target="_blank"}]
+
 **[Z1]** H. K. Miyamoto and S. Yang, "Universal decoding over finite-state additive channels via noise guessing", _arXiv_, 2025, doi: 10.48550/arXiv.2501.12971. [[arXiv](https://arxiv.org/abs/2501.12971){:target="_blank"}]
 
 
@@ -37,8 +40,6 @@ nav_order: 1
 **[C2]** H. K. Miyamoto and S. Yang, "A CSI compression scheme using context trees", _International Zurich Seminar on Information and Communication (IZS)_, Zurich, Switzerland, 2022, pp. 24-28, doi: 10.3929/ethz-b-000535273. [[Link](https://www.research-collection.ethz.ch/handle/20.500.11850/535273){:target="_blank"}]
 
 **[C1]** H. K. Miyamoto, H. N. Sá Earp and S. I. R. Costa, "Constructive spherical codes in $$2^k$$ dimensions", _IEEE International Symposium on Information Theory (ISIT)_, Paris, France, 2019, pp. 1612-1616, doi: 10.1109/ISIT.2019.8849464. [[Link](https://ieeexplore.ieee.org/document/8849464){:target="_blank"}]
-
-
 
 #### Domestic conference papers
 
@@ -80,7 +81,7 @@ _*Extended abstract of **[[T1]](#theses)**, published on the occasion of the [Cl
 
 #### Theses
 
-**[T1]** H. K. Miyamoto, "Geometria, Estatística e Aplicações a Comunicações e Aprendizado", *M.Sc. dissertation in applied mathematics*, Universidade Estadual de Campinas, 2022, doi: 20.500.12733/6633. [[Link](http://repositorio.unicamp.br/acervo/detalhe/1256426){:target="_blank"}] [[PDF](./../files/Dissertação_HenriqueMiyamoto.pdf){:target="_blank"}] [[Errata](./../files/errata.pdf){:target="_blank"}]<br>
+**[T1]** H. K. Miyamoto, "Geometria, Estatística e Aplicações a Comunicações e Aprendizado", *M.Sc. dissertation in applied mathematics*, Universidade Estadual de Campinas, 2022, hdl: 20.500.12733/6633. [[Link](https://hdl.handle.net/20.500.12733/6633){:target="_blank"}] [[PDF](./../files/Dissertação_HenriqueMiyamoto.pdf){:target="_blank"}] [[Errata](./../files/errata.pdf){:target="_blank"}]<br>
  _*Received the [Clóvis Caesar Gonzaga Award](https://www.sbmac.org.br/premio-pos-graduacao/){:target="_blank"} for best master's dissertation in applied and computational mathematics (SBMAC 2023)._
 
 <!--
