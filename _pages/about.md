@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Ph.D. student | Information theory
+subtitle: Doctoral researcher | Information theory
 
 profile:
   align: right
@@ -26,7 +26,7 @@ latest_posts:
 
 
 <p align="justify">
-I am a Brazilian Ph.D. student working at the <a target="_blank" href="https://l2s.centralesupelec.fr/">Laboratory of Signals and Systems (L2S)</a>, which is jointly operated by <a target="_blank" href="https://www.cnrs.fr/fr">CNRS</a>, <a target="_blank" href="https://www.centralesupelec.fr/">CentraleSupélec</a> and <a target="_blank" href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay</a> in Gif-sur-Yvette, France.
+I am a Brazilian doctoral researcher working at the <a target="_blank" href="https://l2s.centralesupelec.fr/">Laboratory of Signals and Systems (L2S)</a>, which is jointly operated by <a target="_blank" href="https://www.cnrs.fr/fr">CNRS</a>, <a target="_blank" href="https://www.centralesupelec.fr/">CentraleSupélec</a> and <a target="_blank" href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay</a> in Gif-sur-Yvette, France.
 My advisor is <a target="_blank" href="https://l2s.centralesupelec.fr/u/yang-sheng/">Prof. Sheng Yang</a>.
 </p>
 
