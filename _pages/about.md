@@ -44,10 +44,6 @@ I received the M.Sc. degree in applied mathematics from <a target="_blank" href=
 _henrique.miyamoto(at)centralesupelec.fr_<br>
 _henrique.miyamoto(at)universite-paris-saclay.fr_<br>
 
-Laboratory of Signals and Systems (L2S)<br>
-CentraleSupélec | Université Paris-Saclay<br>
-3 rue Joliot-Cure 91190 Gif-sur-Yvette, France
-
 
 **Links:**
 
