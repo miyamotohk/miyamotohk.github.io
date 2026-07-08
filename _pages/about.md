@@ -26,18 +26,16 @@ latest_posts:
 
 
 <p align="justify">
-I am a Brazilian doctoral researcher working at the <a target="_blank" href="https://l2s.centralesupelec.fr/">Laboratory of Signals and Systems (L2S)</a>, which is jointly operated by <a target="_blank" href="https://www.cnrs.fr/fr">CNRS</a>, <a target="_blank" href="https://www.centralesupelec.fr/">CentraleSupélec</a> and <a target="_blank" href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay</a> in Gif-sur-Yvette, France.
-My advisor is <a target="_blank" href="https://l2s.centralesupelec.fr/u/yang-sheng/">Prof. Sheng Yang</a>.
+I am a Brazilian researcher. My research interests lie around information theory (MSC2020 <a target="_blank" href="https://mathscinet.ams.org/mathscinet/msc/msc2020.html?t=94Axx">94A</a> and <a target="_blank" href="https://mathscinet.ams.org/mathscinet/msc/msc2020.html?t=94Bxx">94B</a>).
 </p>
 
 <p align="justify">
-My research interests lie around information theory (MSC2020 <a target="_blank" href="https://mathscinet.ams.org/mathscinet/msc/msc2020.html?t=94Axx">94A</a> and <a target="_blank" href="https://mathscinet.ams.org/mathscinet/msc/msc2020.html?t=94Bxx">94B</a>, particularly 94A15, 94A24, 94B35, 94B70). 
+I prepared my Ph.D. degree at the <a target="_blank" href="https://l2s.centralesupelec.fr/">Laboratory of Signals and Systems (L2S)</a>, which is jointly operated by <a target="_blank" href="https://www.cnrs.fr/fr">CNRS</a>, <a target="_blank" href="https://www.centralesupelec.fr/">CentraleSupélec</a> and <a target="_blank" href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay</a> in Gif-sur-Yvette, France. My Ph.D. advisor was <a target="_blank" href="https://l2s.centralesupelec.fr/u/yang-sheng/">Prof. Sheng Yang</a>.
 </p>
 
 <p align="justify">
 I received the M.Sc. degree in applied mathematics from <a target="_blank" href="https://www.unicamp.br/">Unicamp</a>, Brazil, the <em>Diplôme d'Ingénieur</em> (major: applied mathematics) from <a target="_blank" href="https://www.centralesupelec.fr/">CentraleSupélec</a>, France, and the B.Sc. degree in electrical engineering from <a target="_blank" href="https://www.unicamp.br/">Unicamp</a>, Brazil.
 </p>
-
 
 **Curriculum vitae:** click [here](/Henrique-Miyamoto-CV.pdf){:target="_blank"}.
 
