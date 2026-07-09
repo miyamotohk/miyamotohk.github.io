@@ -34,7 +34,7 @@ I prepared my Ph.D. degree at the <a target="_blank" href="https://l2s.centrales
 </p>
 
 <p align="justify">
-I received the M.Sc. degree in applied mathematics from <a target="_blank" href="https://www.unicamp.br/">Unicamp</a>, Brazil, the <em>Diplôme d'Ingénieur</em> (major: applied mathematics) from <a target="_blank" href="https://www.centralesupelec.fr/">CentraleSupélec</a>, France, and the B.Sc. degree in electrical engineering from <a target="_blank" href="https://www.unicamp.br/">Unicamp</a>, Brazil.
+Prior to that, I received the M.Sc. degree in applied mathematics from <a target="_blank" href="https://www.unicamp.br/">Unicamp</a>, Brazil, the <em>Diplôme d'Ingénieur</em> (major: applied mathematics) from <a target="_blank" href="https://www.centralesupelec.fr/">CentraleSupélec</a>, France, and the B.Sc. degree in electrical engineering from <a target="_blank" href="https://www.unicamp.br/">Unicamp</a>, Brazil.
 </p>
 
 **Curriculum vitae:** click [here](/Henrique-Miyamoto-CV.pdf){:target="_blank"}.
