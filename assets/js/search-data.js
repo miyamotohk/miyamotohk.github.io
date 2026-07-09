@@ -42,16 +42,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-have-successfully-defended-my-ph-d-thesis-at-université-paris-saclay-on-12-june-2026-the-committee-was-composed-by-prof-michèle-wigger-prof-amos-lapidoth-dr-hamdi-joudeh-and-prof-albert-guillén-i-fàbregas",
+          title: 'I have successfully defended my Ph.D. thesis at Université Paris-Saclay on 12 June...',
           description: "",
           section: "News",},{
       id: 'light-theme',
