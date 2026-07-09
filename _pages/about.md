@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Researcher in information theory
+subtitle: Researcher | Information theory
 
 profile:
   align: right
