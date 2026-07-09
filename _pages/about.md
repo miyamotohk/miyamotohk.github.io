@@ -26,7 +26,7 @@ latest_posts:
 
 
 <p align="justify">
-I am a Brazilian researcher. My research interests lie around information theory (MSC2020 <a target="_blank" href="https://mathscinet.ams.org/mathscinet/msc/msc2020.html?t=94Axx">94A</a> and <a target="_blank" href="https://mathscinet.ams.org/mathscinet/msc/msc2020.html?t=94Bxx">94B</a>).
+I am a Brazilian researcher. My research interests lie around information theory and its applications (MSC2020 <a target="_blank" href="https://mathscinet.ams.org/mathscinet/msc/msc2020.html?t=94Axx">94A</a> and <a target="_blank" href="https://mathscinet.ams.org/mathscinet/msc/msc2020.html?t=94Bxx">94B</a>).
 </p>
 
 <p align="justify">
