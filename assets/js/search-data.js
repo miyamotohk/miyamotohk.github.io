@@ -42,8 +42,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-have-successfully-defended-my-ph-d-thesis-at-université-paris-saclay-on-12-june-2026-the-committee-was-composed-by-prof-michèle-wigger-prof-amos-lapidoth-dr-hamdi-joudeh-and-prof-albert-guillén-i-fàbregas",
-          title: 'I have successfully defended my Ph.D. thesis at Université Paris-Saclay on 12 June...',
+            },},{id: "news-i-have-successfully-defended-my-ph-d-thesis-at-université-paris-saclay-the-committee-was-composed-by-prof-michèle-wigger-prof-amos-lapidoth-dr-hamdi-joudeh-and-prof-albert-guillén-i-fàbregas",
+          title: 'I have successfully defended my Ph.D. thesis at Université Paris-Saclay. The committee was...',
           description: "",
           section: "News",},{
       id: 'light-theme',
