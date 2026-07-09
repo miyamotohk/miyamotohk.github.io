@@ -42,7 +42,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-have-successfully-defended-my-ph-d-thesis-universal-decoding-through-randomised-decoding-at-université-paris-saclay-the-committee-was-composed-by-prof-michèle-wigger-prof-amos-lapidoth-dr-hamdi-joudeh-and-prof-albert-guillén-i-fàbregas",
+            },},{id: "news-i-have-successfully-defended-my-ph-d-thesis-universal-decoding-through-randomised-decoding-at-université-paris-saclay-the-committee-was-composed-of-prof-michèle-wigger-prof-amos-lapidoth-dr-hamdi-joudeh-and-prof-albert-guillén-i-fàbregas",
           title: 'I have successfully defended my Ph.D. thesis Universal decoding through randomised decoding at...',
           description: "",
           section: "News",},{
