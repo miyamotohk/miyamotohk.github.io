@@ -59,7 +59,7 @@ _*Extended abstract of **[[T1]](#theses)**, published on the occasion of the [Cl
 
 #### Presentations (without proceedings)
 
-**[A8]** "Universal decoding through randomised decoding" (poster presentation), _2nd France PhD Workshop on Information Theory_, Gif-sur-Yvette, France, 2024.
+**[A8]** "Universal decoding through randomised decoding" (oral presentation), _2nd France PhD Workshop on Information Theory_, Gif-sur-Yvette, France, 2024.
 
 **[A7]** "On universal decoding over memoryless channels with the Krichevsky–Trofimov estimator" (poster presentation), _IEEE European School on Information Theory (ESIT)_, Eindhoven, The Netherlands, 2024.
 
