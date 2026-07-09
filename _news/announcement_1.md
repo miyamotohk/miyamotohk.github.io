@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have successfully defended my Ph.D. thesis _Universal decoding through randomised decoding_ at Université Paris-Saclay. The committee was composed by Prof. Michèle Wigger, Prof. Amos Lapidoth, Dr. Hamdi Joudeh and Prof. Albert Guillén i Fàbregas.
+I have successfully defended my Ph.D. thesis _Universal decoding through randomised decoding_ at Université Paris-Saclay. The committee was composed of Prof. Michèle Wigger, Prof. Amos Lapidoth, Dr. Hamdi Joudeh and Prof. Albert Guillén i Fàbregas.
