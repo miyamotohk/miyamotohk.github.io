@@ -30,7 +30,7 @@ I am a Brazilian researcher. My research interests lie around information theory
 </p>
 
 <p align="justify">
-I have prepared my Ph.D. degree at the <a target="_blank" href="https://l2s.centralesupelec.fr/">Laboratory of Signals and Systems (L2S)</a>, which is jointly operated by <a target="_blank" href="https://www.cnrs.fr/fr">CNRS</a>, <a target="_blank" href="https://www.centralesupelec.fr/">CentraleSupélec</a> and <a target="_blank" href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay</a> in Gif-sur-Yvette, France. I was advised by Prof. <a target="_blank" href="https://l2s.centralesupelec.fr/u/yang-sheng/">Sheng Yang</a>.
+I prepared my Ph.D. degree at the <a target="_blank" href="https://l2s.centralesupelec.fr/">Laboratory of Signals and Systems (L2S)</a>, which is jointly operated by <a target="_blank" href="https://www.cnrs.fr/fr">CNRS</a>, <a target="_blank" href="https://www.centralesupelec.fr/">CentraleSupélec</a> and <a target="_blank" href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay</a> in Gif-sur-Yvette, France. I was advised by Prof. <a target="_blank" href="https://l2s.centralesupelec.fr/u/yang-sheng/">Sheng Yang</a>.
 </p>
 
 <p align="justify">
