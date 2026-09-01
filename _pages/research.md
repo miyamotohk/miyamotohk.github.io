@@ -30,11 +30,11 @@ nav_order: 1
 
 #### Conference papers
 
-**[C9]** R. Zhang, H. Miyamoto, R. Combes and S. Yang, "An efficient synchronization scheme for distributed bandits", accepted to _IEEE International Symposium on Information Theory (ISIT)_, Guangzhou, China, 2026.
+**[C9]** R. Zhang, H. Miyamoto, R. Combes and S. Yang, "An efficient synchronization scheme for distributed bandits", _IEEE International Symposium on Information Theory (ISIT)_, Guangzhou, China, 2026, pp. 1-6, doi: 10.1109/ISIT62367.2026.11654092. [[Link](https://ieeexplore.ieee.org/abstract/document/11654092){:target="_blank"}]
 
-**[C8]** H. K. Miyamoto and S. Yang, "On $$\alpha$$-tilted noise guessing decoding", accepted to _IEEE International Symposium on Information Theory (ISIT)_, Guangzhou, China, 2026.
+**[C8]** H. K. Miyamoto and S. Yang, "On $$\alpha$$-tilted noise guessing decoding", _IEEE International Symposium on Information Theory (ISIT)_, Guangzhou, China, 2026, pp. 1-6, doi: 10.1109/ISIT62367.2026.11653642. [[Link](https://ieeexplore.ieee.org/abstract/document/11653642){:target="_blank"}]
 
-**[C7]** H. K. Miyamoto and S. Yang, "Error exponents for randomised list decoding", accepted to _IEEE International Symposium on Information Theory (ISIT)_, Guangzhou, China, 2026.
+**[C7]** H. K. Miyamoto and S. Yang, "Error exponents for randomised list decoding", _IEEE International Symposium on Information Theory (ISIT)_, Guangzhou, China, 2026, pp. 1-6, doi: 10.1109/ISIT62367.2026.11654089. [[Link](https://ieeexplore.ieee.org/document/11654089){:target="_blank"}]
 
 **[C6]** H. K. Miyamoto and S. Yang, "On universal decoding over discrete additive channels by noise guessing", _IEEE Information Theory Workshop (ITW)_, Sydney, Australia, 2025, pp. 1-6, doi: 10.1109/ITW62417.2025.11240417. [[Link](https://ieeexplore.ieee.org/document/11240417){:target="_blank"}]
 
