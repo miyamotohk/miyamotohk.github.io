@@ -30,7 +30,7 @@ I am a Brazilian researcher. My research interests lie around information theory
 </p>
 
 <p align="justify">
-I prepared my Ph.D. degree at <a target="_blank" href="https://www.centralesupelec.fr/">CentraleSupélec</a>, <a target="_blank" href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay</a>, France under supervision of Prof. <a target="_blank" href="https://l2s.centralesupelec.fr/u/yang-sheng/">Sheng Yang</a>. I received the M.Sc. degree in applied mathematics from <a target="_blank" href="https://www.unicamp.br/">Unicamp</a>, Brazil, the <em>Diplôme d'Ingénieur</em> (major: applied mathematics) from <a target="_blank" href="https://www.centralesupelec.fr/">CentraleSupélec</a>, France, and the B.Sc. degree in electrical engineering from <a target="_blank" href="https://www.unicamp.br/">Unicamp</a>, Brazil.
+I prepared the Ph.D. degree at <a target="_blank" href="https://www.centralesupelec.fr/">CentraleSupélec</a>, <a target="_blank" href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay</a>, France under supervision of Prof. <a target="_blank" href="https://l2s.centralesupelec.fr/u/yang-sheng/">Sheng Yang</a>. I received the M.Sc. degree in applied mathematics from <a target="_blank" href="https://www.unicamp.br/">Unicamp</a>, Brazil, the <em>Diplôme d'Ingénieur</em> (major: applied mathematics) from <a target="_blank" href="https://www.centralesupelec.fr/">CentraleSupélec</a>, France, and the B.Sc. degree in electrical engineering from <a target="_blank" href="https://www.unicamp.br/">Unicamp</a>, Brazil.
 </p>
 
 **Curriculum vitae:** click [here](/Henrique-Miyamoto-CV.pdf){:target="_blank"}.
