@@ -35,11 +35,9 @@ I prepared the Ph.D. degree at <a target="_blank" href="https://www.centralesupe
 
 **Curriculum vitae:** click [here](/Henrique-Miyamoto-CV.pdf){:target="_blank"}.
 
-
 **Contact:**<br>
 _henrique.miyamoto(at)centralesupelec.fr_<br>
 _miyamotohk(at)ieee.org_<br>
-
 
 **Links:**
 
