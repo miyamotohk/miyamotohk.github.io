@@ -26,7 +26,7 @@ latest_posts:
 
 
 <p align="justify">
-I am a postdoc with the <a target="_blank" href="https://www.tue-ictlab.nl/">Information and Communication Theory (ICT) Lab</a> at the <a target="_blank" href="https://www.tue.nl/en/">Eindhoven University of Technology (TU/e)</a>, in the Netherlands, where I work with Dr. <a target="_blank" href="https://h-joudeh.github.io/">Hamdi Joudeh</a>. My research interests lie around information theory and its applications (MSC2020 <a target="_blank" href="https://mathscinet.ams.org/mathscinet/msc/msc2020.html?t=94Axx">94A</a> and <a target="_blank" href="https://mathscinet.ams.org/mathscinet/msc/msc2020.html?t=94Bxx">94B</a>).
+I am a postdoc with the <a target="_blank" href="https://www.tue-ictlab.nl/">Information and Communication Theory (ICT) Lab</a> at the <a target="_blank" href="https://www.tue.nl/en/">Eindhoven University of Technology (TU/e)</a>, in the Netherlands, where I work with Assoc. Prof. <a target="_blank" href="https://h-joudeh.github.io/">Hamdi Joudeh</a>. My research interests lie around information theory and its applications (MSC2020 <a target="_blank" href="https://mathscinet.ams.org/mathscinet/msc/msc2020.html?t=94Axx">94A</a> and <a target="_blank" href="https://mathscinet.ams.org/mathscinet/msc/msc2020.html?t=94Bxx">94B</a>).
 </p>
 
 <p align="justify">
@@ -39,7 +39,7 @@ I obtained the Ph.D. degree at <a target="_blank" href="https://www.centralesupe
 
 _h.k.miyamoto(at)tue.nl_<br>
 
-Flux 7.064, Groene Loper 19
+Flux 7.064, Groene Loper 19<br>
 5612 AP Eindhoven, The Netherlands
 
 **Links:**
@@ -53,5 +53,4 @@ Flux 7.064, Groene Loper 19
 <a target="_blank" href="https://www.scopus.com/authid/detail.uri?authorId=57211255039"><img style="padding-left: 5px; padding-right: 5px" src="assets/img/logos/scopus.png" height="33" title="Scopus">
 <a target="_blank" href="https://www.itsoc.org/profile/9520"><img style=" padding-left: 5px; padding-right: 5px" src="assets/img/logos/itsoc.png" height="33" title="ITSoc">
 <a target="_blank" href="https://mathscinet.ams.org/mathscinet/MRAuthorID/1475271"><img style="padding-left: 5px; padding-right: 5px" src="assets/img/logos/math.png" height="33" title="MathSciNet">
-
   <br>
