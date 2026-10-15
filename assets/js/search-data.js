@@ -45,8 +45,8 @@ ninja.data = [{
             },},{id: "news-i-have-successfully-defended-my-ph-d-thesis-universal-decoding-through-randomised-decoding-at-université-paris-saclay-the-committee-was-composed-of-prof-michèle-wigger-prof-amos-lapidoth-dr-hamdi-joudeh-and-prof-albert-guillén-i-fàbregas",
           title: 'I have successfully defended my Ph.D. thesis Universal decoding through randomised decoding at...',
           description: "",
-          section: "News",},{id: "news-i-have-joined-the-ict-lab-at-eindhoven-university-of-technology-tu-e-as-a-postdoc-researcher",
-          title: 'I have joined the ICT Lab at Eindhoven University of Technology (TU/e) as...',
+          section: "News",},{id: "news-i-have-joined-the-ict-lab-at-the-eindhoven-university-of-technology-tu-e-as-a-postdoc-researcher",
+          title: 'I have joined the ICT Lab at the Eindhoven University of Technology (TU/e)...',
           description: "",
           section: "News",},{
       id: 'light-theme',
