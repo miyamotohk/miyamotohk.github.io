@@ -26,18 +26,21 @@ latest_posts:
 
 
 <p align="justify">
-I am a Brazilian researcher. My research interests lie around information theory and its applications (MSC2020 <a target="_blank" href="https://mathscinet.ams.org/mathscinet/msc/msc2020.html?t=94Axx">94A</a> and <a target="_blank" href="https://mathscinet.ams.org/mathscinet/msc/msc2020.html?t=94Bxx">94B</a>).
+I am a postdoc with the <a target="_blank" href="https://www.tue-ictlab.nl/">Information and Communication Theory (ICT) Lab</a> at the <a target="_blank" href="https://www.tue.nl/en/">Eindhoven University of Technology (TU/e)</a>, in the Netherlands, where I work with Dr. <a target="_blank" href="https://h-joudeh.github.io/">Hamdi Joudeh</a>. My research interests lie around information theory and its applications (MSC2020 <a target="_blank" href="https://mathscinet.ams.org/mathscinet/msc/msc2020.html?t=94Axx">94A</a> and <a target="_blank" href="https://mathscinet.ams.org/mathscinet/msc/msc2020.html?t=94Bxx">94B</a>).
 </p>
 
 <p align="justify">
-I prepared the Ph.D. degree at <a target="_blank" href="https://www.centralesupelec.fr/">CentraleSupélec</a>, <a target="_blank" href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay</a>, France under supervision of Prof. <a target="_blank" href="https://l2s.centralesupelec.fr/u/yang-sheng/">Sheng Yang</a>. I received the M.Sc. degree in applied mathematics from <a target="_blank" href="https://www.unicamp.br/">Unicamp</a>, Brazil, the <em>Diplôme d'Ingénieur</em> (major: applied mathematics) from <a target="_blank" href="https://www.centralesupelec.fr/">CentraleSupélec</a>, France, and the B.Sc. degree in electrical engineering from <a target="_blank" href="https://www.unicamp.br/">Unicamp</a>, Brazil.
+I obtained the Ph.D. degree at <a target="_blank" href="https://www.centralesupelec.fr/">CentraleSupélec</a>, <a target="_blank" href="https://www.universite-paris-saclay.fr/">Université Paris-Saclay</a>, France under supervision of Prof. <a target="_blank" href="https://l2s.centralesupelec.fr/u/yang-sheng/">Sheng Yang</a>. I received the M.Sc. degree in applied mathematics from <a target="_blank" href="https://www.unicamp.br/">Unicamp</a>, Brazil, the <em>Diplôme d'Ingénieur</em> (major: applied mathematics) from <a target="_blank" href="https://www.centralesupelec.fr/">CentraleSupélec</a>, France, and the B.Sc. degree in electrical engineering from <a target="_blank" href="https://www.unicamp.br/">Unicamp</a>, Brazil.
 </p>
 
 **Curriculum vitae:** click [here](/Henrique-Miyamoto-CV.pdf){:target="_blank"}.
 
 **Contact:**<br>
-_henrique.miyamoto(at)centralesupelec.fr_<br>
-_miyamotohk(at)ieee.org_<br>
+
+_h.k.miyamoto(at)tue.nl_<br>
+
+Flux 7.064, Groene Loper 19
+5612 AP Eindhoven, The Netherlands
 
 **Links:**
 
