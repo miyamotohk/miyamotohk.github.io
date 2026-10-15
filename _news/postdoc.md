@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have joined the ICT Lab at Eindhoven University of Technology (TU/e) as a postdoc researcher.
+I have joined the ICT Lab at the Eindhoven University of Technology (TU/e) as a postdoc researcher.
