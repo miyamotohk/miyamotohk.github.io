@@ -35,7 +35,7 @@ I obtained the Ph.D. degree at <a target="_blank" href="https://www.centralesupe
 
 **Curriculum vitae:** click [here](/Henrique-Miyamoto-CV.pdf){:target="_blank"}.
 
-**Contact:**
+**Contact:**<br>
 _h.k.miyamoto(at)tue.nl_<br>
 
 Flux 7.064, Groene Loper 19<br>
