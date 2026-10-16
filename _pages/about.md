@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Researcher | Information theory
+subtitle: Postdoc Researcher | Information theory
 
 profile:
   align: right
