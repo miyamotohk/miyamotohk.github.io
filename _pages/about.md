@@ -26,7 +26,7 @@ latest_posts:
 
 
 <p align="justify">
-I am a postdoc with the <a target="_blank" href="https://www.tue-ictlab.nl/">Information and Communication Theory (ICT) Lab</a> at the <a target="_blank" href="https://www.tue.nl/en/">Eindhoven University of Technology (TU/e)</a>, in the Netherlands, where I work with Dr. <a target="_blank" href="https://h-joudeh.github.io/">Hamdi Joudeh</a>. My research interests lie around information theory and its applications (MSC2020 <a target="_blank" href="https://mathscinet.ams.org/mathscinet/msc/msc2020.html?t=94Axx">94A</a> and <a target="_blank" href="https://mathscinet.ams.org/mathscinet/msc/msc2020.html?t=94Bxx">94B</a>).
+I am a postdoc researcher with the <a target="_blank" href="https://www.tue-ictlab.nl/">Information and Communication Theory (ICT) Lab</a> at the <a target="_blank" href="https://www.tue.nl/en/">Eindhoven University of Technology (TU/e)</a>, in the Netherlands, where I work with Dr. <a target="_blank" href="https://h-joudeh.github.io/">Hamdi Joudeh</a>. My research interests lie around information theory and its applications (MSC2020 <a target="_blank" href="https://mathscinet.ams.org/mathscinet/msc/msc2020.html?t=94Axx">94A</a> and <a target="_blank" href="https://mathscinet.ams.org/mathscinet/msc/msc2020.html?t=94Bxx">94B</a>).
 </p>
 
 <p align="justify">
